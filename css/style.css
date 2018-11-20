@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400');
+
+.space {
+    padding: 4rem 0;
+}
+.low-space {
+    padding-bottom: 4rem;
+}
+.description {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 1.4;
+}
